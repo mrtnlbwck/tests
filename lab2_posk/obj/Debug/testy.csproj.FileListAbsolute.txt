@@ -1,0 +1,16 @@
+C:\Users\marty\Desktop\IBM\ROK_3\SEMESTR_5\POSK\LABY\proj_2\projekt2_ALeksandraKrajna_MartynaLubowiecka\zad_2\prawidlowe\lab2_posk\lab2_posk\bin\Debug\lab2_posk.exe.config
+C:\Users\marty\Desktop\IBM\ROK_3\SEMESTR_5\POSK\LABY\proj_2\projekt2_ALeksandraKrajna_MartynaLubowiecka\zad_2\prawidlowe\lab2_posk\lab2_posk\bin\Debug\lab2_posk.exe
+C:\Users\marty\Desktop\IBM\ROK_3\SEMESTR_5\POSK\LABY\proj_2\projekt2_ALeksandraKrajna_MartynaLubowiecka\zad_2\prawidlowe\lab2_posk\lab2_posk\bin\Debug\lab2_posk.pdb
+C:\Users\marty\Desktop\IBM\ROK_3\SEMESTR_5\POSK\LABY\proj_2\projekt2_ALeksandraKrajna_MartynaLubowiecka\zad_2\prawidlowe\lab2_posk\lab2_posk\obj\Debug\testy.csproj.AssemblyReference.cache
+C:\Users\marty\Desktop\IBM\ROK_3\SEMESTR_5\POSK\LABY\proj_2\projekt2_ALeksandraKrajna_MartynaLubowiecka\zad_2\prawidlowe\lab2_posk\lab2_posk\obj\Debug\testy.csproj.SuggestedBindingRedirects.cache
+C:\Users\marty\Desktop\IBM\ROK_3\SEMESTR_5\POSK\LABY\proj_2\projekt2_ALeksandraKrajna_MartynaLubowiecka\zad_2\prawidlowe\lab2_posk\lab2_posk\obj\Debug\lab2_posk.Wzrok.resources
+C:\Users\marty\Desktop\IBM\ROK_3\SEMESTR_5\POSK\LABY\proj_2\projekt2_ALeksandraKrajna_MartynaLubowiecka\zad_2\prawidlowe\lab2_posk\lab2_posk\obj\Debug\lab2_posk.WzrokMenu.resources
+C:\Users\marty\Desktop\IBM\ROK_3\SEMESTR_5\POSK\LABY\proj_2\projekt2_ALeksandraKrajna_MartynaLubowiecka\zad_2\prawidlowe\lab2_posk\lab2_posk\obj\Debug\lab2_posk.Menu.resources
+C:\Users\marty\Desktop\IBM\ROK_3\SEMESTR_5\POSK\LABY\proj_2\projekt2_ALeksandraKrajna_MartynaLubowiecka\zad_2\prawidlowe\lab2_posk\lab2_posk\obj\Debug\lab2_posk.Pamiec.resources
+C:\Users\marty\Desktop\IBM\ROK_3\SEMESTR_5\POSK\LABY\proj_2\projekt2_ALeksandraKrajna_MartynaLubowiecka\zad_2\prawidlowe\lab2_posk\lab2_posk\obj\Debug\lab2_posk.Sluch.resources
+C:\Users\marty\Desktop\IBM\ROK_3\SEMESTR_5\POSK\LABY\proj_2\projekt2_ALeksandraKrajna_MartynaLubowiecka\zad_2\prawidlowe\lab2_posk\lab2_posk\obj\Debug\lab2_posk.Pamiec2.resources
+C:\Users\marty\Desktop\IBM\ROK_3\SEMESTR_5\POSK\LABY\proj_2\projekt2_ALeksandraKrajna_MartynaLubowiecka\zad_2\prawidlowe\lab2_posk\lab2_posk\obj\Debug\lab2_posk.Properties.Resources.resources
+C:\Users\marty\Desktop\IBM\ROK_3\SEMESTR_5\POSK\LABY\proj_2\projekt2_ALeksandraKrajna_MartynaLubowiecka\zad_2\prawidlowe\lab2_posk\lab2_posk\obj\Debug\testy.csproj.GenerateResource.cache
+C:\Users\marty\Desktop\IBM\ROK_3\SEMESTR_5\POSK\LABY\proj_2\projekt2_ALeksandraKrajna_MartynaLubowiecka\zad_2\prawidlowe\lab2_posk\lab2_posk\obj\Debug\testy.csproj.CoreCompileInputs.cache
+C:\Users\marty\Desktop\IBM\ROK_3\SEMESTR_5\POSK\LABY\proj_2\projekt2_ALeksandraKrajna_MartynaLubowiecka\zad_2\prawidlowe\lab2_posk\lab2_posk\obj\Debug\lab2_posk.exe
+C:\Users\marty\Desktop\IBM\ROK_3\SEMESTR_5\POSK\LABY\proj_2\projekt2_ALeksandraKrajna_MartynaLubowiecka\zad_2\prawidlowe\lab2_posk\lab2_posk\obj\Debug\lab2_posk.pdb
